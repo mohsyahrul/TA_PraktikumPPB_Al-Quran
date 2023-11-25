@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Al-Quran</string>
+    <string name="tittle">Login Aplikasi Al-Quran </string>
+    <string name="user">username</string>
+    <string name="password">password</string>
+    <string name="login">masuk</string>
+    <string name="register">register</string>
+</resources>
